@@ -4,7 +4,7 @@ layout: homepage
 
 ## Hello !
 
-I am a MSc student under the supervision of [Professor François Rheault](https://github.com/frheault) at the [Sherbrooke Connectivity Imaging laboratory](https://scil.usherbrooke.ca/) at the University of Sherbrooke, Canada.
+I am a MSc student under the supervision of [Professor François Rheault](https://github.com/frheault) at the [Sherbrooke Connectivity Imaging laboratory](https://scil.usherbrooke.ca/) at the University of Sherbrooke.
 
 ## Research Interests
 - **Brain Imaging**
